@@ -29,3 +29,7 @@ Kelas  : TI.24.A2
 
 3. Membuat Section "Tentang Kami"
 
+<img width="1064" height="178" alt="Image" src="https://github.com/user-attachments/assets/1ce26b12-d700-4756-ba41-2c815199a9f1" />
+
+4. Sidebar dan Widget
+   
