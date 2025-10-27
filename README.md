@@ -23,7 +23,7 @@ Kelas  : TI.24.A2
 
 Buka file index.html, lalu tuliskan struktur dasar HTML berikut:
 
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -35,7 +35,7 @@ Buka file index.html, lalu tuliskan struktur dasar HTML berikut:
   <h1 class="text-center mt-5">Praktikum 6 - Web Framework (Bootstrap)</h1>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
+</html>'''
 
 
 
