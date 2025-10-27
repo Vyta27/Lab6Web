@@ -40,3 +40,9 @@ Kelas  : TI.24.A2
 <img width="980" height="100" alt="Image" src="https://github.com/user-attachments/assets/0eb8adf1-4e7a-450c-af62-2f903b4f160a" />
 
 6. Halaman Contact
+
+<img width="898" height="356" alt="Image" src="https://github.com/user-attachments/assets/ed39b726-98d7-4eb1-aeff-16ddfaa92c33" />
+
+7. Footer
+
+
