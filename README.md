@@ -13,3 +13,6 @@ Kelas  : TI.24.A2
 
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e33c06e5-659e-40fc-90c3-5b6e6169cc8c" />
+
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c013b7d0-898e-4a96-bece-4336f5da877e" />
