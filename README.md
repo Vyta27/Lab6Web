@@ -34,4 +34,5 @@ Kelas  : TI.24.A2
 4. Sidebar dan Widget
 
 <img width="706" height="167" alt="Image" src="https://github.com/user-attachments/assets/9c3ec9d0-c290-4b33-bd85-3748de4a3430" />
-   
+
+5. Halaman Portfolio
