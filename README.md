@@ -23,3 +23,9 @@ Kelas  : TI.24.A2
 
 <img width="1028" height="304" alt="Image" src="https://github.com/user-attachments/assets/b40ca32d-2e75-48e8-b72b-f7db77dedff8" />
 
+2. Menambahkan Navbar
+
+<img width="993" height="384" alt="Image" src="https://github.com/user-attachments/assets/f716feee-d68e-447d-b328-65c826afaa43" />
+
+3. Membuat Section "Tentang Kami"
+
