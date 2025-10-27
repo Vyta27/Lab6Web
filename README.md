@@ -45,4 +45,6 @@ Kelas  : TI.24.A2
 
 7. Footer
 
+<img width="968" height="160" alt="Image" src="https://github.com/user-attachments/assets/58405885-a84b-41dd-b2c9-f99c72db7073" />
+
 
