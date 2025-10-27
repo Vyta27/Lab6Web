@@ -36,3 +36,7 @@ Kelas  : TI.24.A2
 <img width="706" height="167" alt="Image" src="https://github.com/user-attachments/assets/9c3ec9d0-c290-4b33-bd85-3748de4a3430" />
 
 5. Halaman Portfolio
+
+<img width="980" height="100" alt="Image" src="https://github.com/user-attachments/assets/0eb8adf1-4e7a-450c-af62-2f903b4f160a" />
+
+6. Halaman Contact
