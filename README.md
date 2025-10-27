@@ -17,7 +17,7 @@ Kelas  : TI.24.A2
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c013b7d0-898e-4a96-bece-4336f5da877e" />
 
-#Penjelasan
+# Penjelasan
 
 1. Membuat Struktur Dasar HTML
 
